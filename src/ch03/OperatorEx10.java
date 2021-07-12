@@ -1,7 +1,7 @@
 package ch03;
 
 public class OperatorEx10 {
-    public static void main(String args[]){
+    public static void main(String[] args){
         int a = 1_000_000;
 
         int result1 = a * a / a;

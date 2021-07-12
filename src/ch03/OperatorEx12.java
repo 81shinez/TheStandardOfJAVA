@@ -1,7 +1,7 @@
 package ch03;
 
 public class OperatorEx12 {
-    public static void main(String args[]){
+    public static void main(String[] args){
         char c1 = 'a'; // 97
         char c2 = c1; // 97
         char c3 = ' ';

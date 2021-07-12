@@ -1,7 +1,7 @@
 package ch03;
 
 public class OperatorEx8 {
-    public static void main(String args[]){
+    public static void main(String[] args){
         int a = 1_000_000; // 1 백만
         int b = 2_000_000; // 2 백만
 
