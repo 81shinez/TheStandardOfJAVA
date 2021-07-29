@@ -15,5 +15,9 @@ public class OperatorEx12 {
         System.out.printf("i = %d%n", i);
         System.out.printf("c2 = %c%n", c2);
         System.out.printf("c3 = %c%n", c3);
+
+
+        System.out.printf("'B' - 'A' = %c%n", 'B' - 'A');
+        System.out.printf("'A' - 'B' = %d%n", 'A' - 'B');
     }
 }
